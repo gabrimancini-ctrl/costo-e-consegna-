@@ -1,4 +1,3 @@
-# costo-e-consegna-
 <!DOCTYPE html>
 <html lang="it">
 <head>
